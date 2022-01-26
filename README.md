@@ -17,7 +17,7 @@
 </p>
 </div>
 
-- 👨‍💻 I am currently looking for a cool company in Barcelona to work, at same time I can learn and grow each and every day. 
+- 👨‍💻 I am currently looking for a cool company in Barcelona to work, at same time where I can learn and grow each and every day. 
   Here is my personal portfolio to know about me and my few projects(https://suman-portfolio-a982d.web.app/)
 
 - 🌱 I’m workinging  on my projects which are attached in portfolio.
