@@ -12,9 +12,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css&logoColor=white" />
   <img alt="PostreSQL" src="https://img.shields.io/badge/-PostgreSQL-E10098?style=flat-square&logo=postgreSQL&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-8DD6F9?style=flat-square&logo=trello&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F46800?style=flat-square&logo=figma&logoColor=white" />
 </p>
 </div>
