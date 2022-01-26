@@ -16,6 +16,21 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F46800?style=flat-square&logo=figma&logoColor=white" />
 </p>
 </div>
+
+- 👨‍💻 I am currently looking for a cool company in Barcelona to work, at same time I can learn and grow each and every day. 
+  Here is my personal portfolio to know about me and my few projects(https://suman-portfolio-a982d.web.app/)
+
+- 🌱 I’m workinging  on my projects which are attached in portfolio.
+
+
+
+<br/>
+<br/>
+<div align="left">
+<a href="https://www.linkedin.com/in/suman-rayamajhi/">Connect with me <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SumanRayamajhi" width="100" /></a>
+</div>
+
+<br/>
  
 
 
