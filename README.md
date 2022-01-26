@@ -1,8 +1,9 @@
+<div align="center">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
  <p>Welcome to my page! </br> I'm Suman, Fullstack developer from <img src="https://i.pinimg.com/originals/76/97/2d/76972d4e94655fcde495a301268afb84.jpg" width="13"/> <b> Nepal</b>, currently living in <img src="https://stuffedeyes.files.wordpress.com/2018/06/spain-2906824_960_720.png?w=640" width="13"/> <b>Barcelona, Spain</b>. </p>
 <p>
 
-<div align="center">
+
 <p style="width: 500px; display: flex; flex-wrap: wrap;justify-content: center; align-items: center;  gap: 10px;">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/>
   <img alt="Firebasw" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=Firebase&logoColor=white" />
@@ -15,7 +16,7 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-8DD6F9?style=flat-square&logo=trello&logoColor=white" /> 
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F46800?style=flat-square&logo=figma&logoColor=white" />
 </p>
-</div>
+
 
 - 👨‍💻 I am currently looking for a cool company in Barcelona to work, at same time where I can learn and grow each and every day. 
   Here is my personal portfolio to know about me and my few projects(https://suman-portfolio-a982d.web.app/)
@@ -31,6 +32,7 @@
 </div>
 
 <br/>
+</div>
  
 
 
